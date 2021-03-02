@@ -1,0 +1,25 @@
+{
+  "name": "brewery-finder",
+  "version": "1.0.0",
+  "description": "website to find local breweries",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanziuke/brewery-finder.git"
+  },
+  "author": "Ryan Ke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanziuke/brewery-finder/issues"
+  },
+  "homepage": "https://github.com/ryanziuke/brewery-finder#readme"
+}
